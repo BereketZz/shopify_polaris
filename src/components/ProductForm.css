@@ -1,0 +1,27 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+   background-color: red;
+     /* Full viewport height */
+  }
+  
+  .product-form {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow for the form */
+    max-width: 800px;
+    width: 100%;
+    background-color: green;
+  }
+  
+  .submit-button {
+    background-color: #5c6ac4; /* Custom button color */
+    color: white;
+    border: none;
+  }
+  
+  .submit-button:hover {
+    background-color: #49539e; /* Darker shade for hover */
+  }
+  
