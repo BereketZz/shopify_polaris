@@ -16,7 +16,7 @@
   <h3>Clone the Repository</h3>
 
   <pre><code>git clone https://github.com/BereketZz/shopify_polaris.git
-cd product-creation-form
+cd shopify_polaris
 </code></pre>
 
   <h3>Install Dependencies</h3>
